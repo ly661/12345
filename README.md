@@ -35,7 +35,7 @@ Railway 增加了每个月500小时的限制，而且不会自动停机，所以
 ### 部署到 Heroku
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ly661/12345)
 
 
 ### Docker（推荐）
